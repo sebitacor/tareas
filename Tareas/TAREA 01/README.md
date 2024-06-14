@@ -1,4 +1,4 @@
-#TAREA 01 DE SEBASTIÁN CORNEJO
+# TAREA 01 DE SEBASTIÁN CORNEJO
 
 A continuación el link del miró que hicimos conjunto a mis compañeros J. Gubbins y A. Gónzalez: [ESTE ES](https://miro.com/app/board/uXjVNjRGO5Y=/).
 
